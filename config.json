@@ -1,0 +1,10 @@
+{
+    "token":"ENTER TOKEN HERE",
+    "password": "PASSOWRD HERE",
+    "prefix": "SELF BOT PREFIX HERE",
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twich.com/rinsinOp",
+    "tts_language": "en"
+}
